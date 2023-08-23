@@ -5,7 +5,7 @@ Submitted by: **Emily Orengo-Castro**
 **Emily's Prework App ** is an app that tells you my name, my school, and my career goals. It also changes the background
 to a random color every time you press a button.
 
-Time spent: **1** hours spent in total
+Time spent: **2** hours spent in total
 
 ## Required Features
 
