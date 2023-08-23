@@ -17,7 +17,9 @@ The following **required** functionality is completed:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-![](https://imgur.com/a/RkTIBI8.gif)
+
+
+<img src= 'https://github.com/orengo08/Codepath-Prework/blob/233cd519c0bd4cec5b4aa63d2975cf0d85aac8f9/VrIuwTT%20-%20Imgur.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
 <!-- Replace this with whatever GIF tool you used! -->
