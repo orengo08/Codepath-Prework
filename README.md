@@ -30,15 +30,15 @@ GIF created with Kap
 [peek](https://github.com/phw/peek) for Linux. -->
 
 ## App Brainstorming (Step 4)
-1. Instagram: like the ability to scroll through reels, like that it find new content for you in the "for you" page, like stories especiallly the circular design for each profile
-2. Facebook: like that it is organized by "tabs" at the bottom i.e home, videos, news, etcm, like the ability to scroll through the news and that it has a large picture for each article, like the marketplace feature
+1. Instagram: like the ability to scroll through reels, like that it finds new content for you in the "for you" page, like stories especiallly the circular design for each profile
+2. Facebook: like that it is organized by "tabs" at the bottom i.e home, videos, news, etc, like the ability to scroll through the news and that it has a large picture for each article, like the marketplace feature
 3. Amazon: like the quick buy feature, like that it shows you new items, like the cart feature
 4. Youtube: like that video minimizes and still plays while I'm doing other things, like that you can listen and read comments at the same time, like the youtube shorts
 
 App Idea: I want to design a to-do/personal assistant app. The user will be able to write their to-do tasks on the app.
 They will be able to click a button once they complete a task. It will be scratched through and marked as complete.
 They can customize the font and background color. They can also set deadlines for each task. It would also be cool to integrate AI somehow.
-You can ask ChatGPT about an item on your to-do list and it will give you suggestions.
+For example, you can ask ChatGPT about an item on your to-do list and it will give you suggestions.
 
 
 
